@@ -1,8 +1,6 @@
 # Hello devs, me chamo Alexsander Leal! 
 Tenho 27 anos e estou em um emocionante processo de transição de carreira. Estou dedicando-me intensamente aos estudos de front-end e back-end, em busca da minha primeira oportunidade para demonstrar minhas habilidades. Estou completamente apaixonado por HTML, CSS e JavaScript.
 
-![Cat Typing](https://media.tenor.com/images/f1aa5a8b4a4c79c3eb274322b4e6b3a1/tenor.gif)
-
 - 👀 Tenho interesse em desenvolvimento web, especificamente em projetos de HTML, CSS e JavaScript, e também estou descobrindo o universo de Python.
 - 🌱 Atualmente estou aprendendo JavaScript e aprimorando minhas habilidades em HTML, CSS e Python.
 - 💞️ Estou buscando colaborar em projetos de desenvolvimento web front-end e iniciativas de código aberto.
@@ -16,8 +14,7 @@ Tenho 27 anos e estou em um emocionante processo de transição de carreira. Est
 <div>
     <a href="https://github.com/lealalexsander">
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealalexsander&layout=compact&langs_count=7&theme=dracula"/>
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lealalexsander&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lealalexsander&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
 
 ## Contatos:
