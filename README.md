@@ -1,6 +1,6 @@
 # Hello devs, me chamo Alexsander Leal! 
 
-![Snake animation](https://github.com/seu-usuário-aqui/lealalexsander/blob/output/github-contribution-grid-snake.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 
 Tenho 27 anos e estou em um emocionante processo de transição de carreira. Estou dedicando-me intensamente aos estudos de front-end e back-end, em busca da minha primeira oportunidade para demonstrar minhas habilidades. Estou completamente apaixonado por HTML, CSS e JavaScript.
 
